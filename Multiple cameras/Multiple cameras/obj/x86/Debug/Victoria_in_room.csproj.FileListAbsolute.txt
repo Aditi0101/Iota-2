@@ -1,0 +1,94 @@
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Multiple cameras.exe
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Multiple cameras.pdb
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.UI.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.Util.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\ZedGraph.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.xml
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.UI.xml
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.Util.xml
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\ZedGraph.xml
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.Main.resources
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.Properties.Resources.resources
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.speech.resources
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csproj.GenerateResource.Cache
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple cameras.exe
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple cameras.pdb
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csprojResolveAssemblyReference.cache
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csproj.ResolveComReference.cache
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.recieve.resources
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.chat.resources
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\Interop.WMPLib.dll
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csproj.ResolveComReference.cache
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple cameras.exe
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple cameras.pdb
+F:\vs\Multiple cameras\Multiple cameras\bin\Debug\Multiple cameras.exe
+F:\vs\Multiple cameras\Multiple cameras\bin\Debug\Multiple cameras.pdb
+F:\vs\Multiple cameras\Multiple cameras\bin\Debug\ZedGraph.dll
+F:\vs\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.xml
+F:\vs\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.UI.xml
+F:\vs\Multiple cameras\Multiple cameras\bin\Debug\Emgu.Util.xml
+F:\vs\Multiple cameras\Multiple cameras\bin\Debug\ZedGraph.xml
+F:\vs\Multiple cameras\Multiple cameras\bin\Debug\zh-CN\ZedGraph.resources.dll
+F:\vs\Multiple cameras\Multiple cameras\bin\Debug\Interop.WMPLib.dll
+F:\vs\Multiple cameras\Multiple cameras\bin\Debug\AxInterop.WMPLib.dll
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csprojResolveAssemblyReference.cache
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.chat.resources
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.Main.resources
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.Properties.Resources.resources
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.recieve.resources
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.speech.resources
+F:\vs\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csproj.GenerateResource.Cache
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\Interop.WMPLib.dll
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csproj.ResolveComReference.cache
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple cameras.exe
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple cameras.pdb
+G:\Multiple cameras\Multiple cameras\bin\Debug\Multiple cameras.exe
+G:\Multiple cameras\Multiple cameras\bin\Debug\Multiple cameras.pdb
+G:\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.dll
+G:\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.UI.dll
+G:\Multiple cameras\Multiple cameras\bin\Debug\Emgu.Util.dll
+G:\Multiple cameras\Multiple cameras\bin\Debug\ZedGraph.dll
+G:\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.xml
+G:\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.UI.xml
+G:\Multiple cameras\Multiple cameras\bin\Debug\Emgu.Util.xml
+G:\Multiple cameras\Multiple cameras\bin\Debug\ZedGraph.xml
+G:\Multiple cameras\Multiple cameras\bin\Debug\zh-CN\ZedGraph.resources.dll
+G:\Multiple cameras\Multiple cameras\bin\Debug\Interop.WMPLib.dll
+G:\Multiple cameras\Multiple cameras\bin\Debug\AxInterop.WMPLib.dll
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csprojResolveAssemblyReference.cache
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.chat.resources
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.Main.resources
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.Properties.Resources.resources
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.recieve.resources
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.speech.resources
+G:\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csproj.GenerateResource.Cache
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\Interop.WMPLib.dll
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csproj.ResolveComReference.cache
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple cameras.exe
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple cameras.pdb
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\bin\Debug\Multiple cameras.exe
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\bin\Debug\Multiple cameras.pdb
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\bin\Debug\ZedGraph.dll
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.xml
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.UI.xml
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\bin\Debug\Emgu.Util.xml
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\bin\Debug\ZedGraph.xml
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\bin\Debug\Interop.WMPLib.dll
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\bin\Debug\AxInterop.WMPLib.dll
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csprojResolveAssemblyReference.cache
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.chat.resources
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.Main.resources
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.Properties.Resources.resources
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.recieve.resources
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.speech.resources
+E:\BTP\lab final(2182016)\Multiple cameras\Multiple cameras\obj\x86\Debug\Victoria_in_room.csproj.GenerateResource.Cache

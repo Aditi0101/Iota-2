@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A809725D-A3B6-4D85-A0EB-E3094E2E1310}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>i_2_final</RootNamespace>
+    <AssemblyName>i^2_final</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Emgu.CV">
+      <HintPath>C:\Emgu\emgucv-windows-universal 3.0.0.2032\bin\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI">
+      <HintPath>C:\Emgu\emgucv-windows-universal 3.0.0.2032\bin\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.Util">
+      <HintPath>C:\Emgu\emgucv-windows-universal 3.0.0.2032\bin\Emgu.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.9.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa, Version=5.5.9.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra, Version=5.5.9.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.PowerPoint, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="alarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alarm.Designer.cs">
+      <DependentUpon>alarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="camera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="camera.Designer.cs">
+      <DependentUpon>camera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gesture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gesture.Designer.cs">
+      <DependentUpon>gesture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gesture_recog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gesture_recog.Designer.cs">
+      <DependentUpon>gesture_recog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="global.cs" />
+    <Compile Include="home_screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home_screen.Designer.cs">
+      <DependentUpon>home_screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IColorSkinDetector.cs" />
+    <Compile Include="mouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mouse.Designer.cs">
+      <DependentUpon>mouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="music_player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="music_player.Designer.cs">
+      <DependentUpon>music_player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="paint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paint.Designer.cs">
+      <DependentUpon>paint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pdf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pdf.Designer.cs">
+      <DependentUpon>pdf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="photos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="photos.Designer.cs">
+      <DependentUpon>photos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ppt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ppt.Designer.cs">
+      <DependentUpon>ppt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="receiver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="receiver.Designer.cs">
+      <DependentUpon>receiver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settings.Designer.cs">
+      <DependentUpon>settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="web.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="web.Designer.cs">
+      <DependentUpon>web.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YCrCbSkinDetector.cs" />
+    <EmbeddedResource Include="alarm.resx">
+      <DependentUpon>alarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="camera.resx">
+      <DependentUpon>camera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gesture.resx">
+      <DependentUpon>gesture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home_screen.resx">
+      <DependentUpon>home_screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mouse.resx">
+      <DependentUpon>mouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paint.resx">
+      <DependentUpon>paint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="photos.resx">
+      <DependentUpon>photos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ppt.resx">
+      <DependentUpon>ppt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="receiver.resx">
+      <DependentUpon>receiver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="web.resx">
+      <DependentUpon>web.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="opencv_core300.dll" />
+    <Content Include="opencv_highgui300.dll" />
+    <Content Include="opencv_imgproc300.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HandGestureRecognition.SkinDetector\HandGestureRecognition.SkinDetector.csproj">
+      <Project>{8B522B5D-7AFE-47B7-90BC-C9203374EA6D}</Project>
+      <Name>HandGestureRecognition.SkinDetector</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcrobatAccessLib">
+      <Guid>{C523F390-9C83-11D3-9094-00104BD0D535}</Guid>
+      <VersionMajor>3</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

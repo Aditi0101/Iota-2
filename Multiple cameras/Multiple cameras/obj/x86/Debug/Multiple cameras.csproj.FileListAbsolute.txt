@@ -1,0 +1,17 @@
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Multiple cameras.exe
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Multiple cameras.pdb
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.UI.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.Util.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\ZedGraph.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.xml
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.CV.UI.xml
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\Emgu.Util.xml
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\ZedGraph.xml
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.Properties.Resources.resources
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple cameras.csproj.GenerateResource.Cache
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple cameras.exe
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple cameras.pdb
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.Main.resources
+C:\Users\hp 1\Documents\Visual Studio 2010\Projects\Multiple cameras\Multiple cameras\obj\x86\Debug\Multiple_cameras.speech.resources

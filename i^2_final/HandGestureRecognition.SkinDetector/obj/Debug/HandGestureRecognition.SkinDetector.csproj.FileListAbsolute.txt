@@ -1,0 +1,50 @@
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Debug\ResolveAssemblyReference.cache
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.csprojResolveAssemblyReference.cache
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.UI.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\ZedGraph.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.xml
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.UI.xml
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.xml
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\ZedGraph.xml
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Accord.dll.config
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Accord.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Accord.Imaging.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Accord.MachineLearning.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Accord.Math.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Accord.Statistics.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Accord.xml
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Accord.Imaging.xml
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Accord.MachineLearning.xml
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Accord.Math.xml
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Accord.Statistics.xml
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Interop.MLApp.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Debug\Interop.MLApp.dll
+E:\BTP\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.csproj.ResolveComReference.cache
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\Accord.dll.config
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.UI.dll
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\ZedGraph.dll
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.xml
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.UI.xml
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.xml
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\ZedGraph.xml
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\BTP\emgucv_codes\i^2_final\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.csprojResolveAssemblyReference.cache
